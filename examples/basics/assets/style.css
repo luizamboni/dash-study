@@ -1,0 +1,35 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    color: #444;
+}
+
+.layout {
+    margin: 0 auto;
+    width: 80%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.btn {
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+img[src*="#thumbnail"] {
+    width:200px;
+    height:100px;
+}
+
+.card {
+    padding: 40px;
+    text-align: center;
+    border: 1px solid #ccc;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: white;
+}
