@@ -25,6 +25,12 @@ img[src*="#thumbnail"] {
     height:100px;
 }
 
+.help {
+    font-size: 10px;
+    position: relative;
+    top: -10px;
+}
+
 .card {
     padding: 40px;
     text-align: center;
