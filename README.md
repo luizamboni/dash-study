@@ -1,1 +1,4 @@
-from https://plotly.com/examples/
+Dash study
+===
+
+A much wrong framework
